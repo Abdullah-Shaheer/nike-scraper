@@ -1,9 +1,6 @@
-  ## Nike Scraper
-## Console Output
+## Nike Scraper
 
-Below is an example of how the console output looks:
-
-![Console Output](screenshots/console_output.png)
+![Console Output](image/console_output.png)
 
 This project is a Python-based scraper that extracts product data from the Nike API. The scraper gathers detailed product information, processes it, and saves the output in multiple formats: JSON, Excel, CSV, and SQLite3. 
 
